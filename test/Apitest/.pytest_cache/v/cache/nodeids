@@ -1,0 +1,7 @@
+[
+  "api_test.py::Test_taobao::test_login",
+  "api_test.py::Test_taobao::test_order",
+  "api_test.py::Test_taobao::test_pay",
+  "api_test.py::Test_taobao::test_search",
+  "api_test.py::Test_taobao::test_sumbit"
+]
